@@ -1,0 +1,49 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Omni",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(25, 22, 34)",
+      "toolbar_text": "rgb(152, 139, 199)",
+      "frame": "rgb(25, 22, 34)",
+      "tab_background_text": "rgb(152, 139, 199)",
+      "toolbar_field": "rgb(65, 65, 77)",
+      "toolbar_field_text": "rgb(225, 225, 230)",
+      "tab_line": "rgb(103, 228, 128)",
+      "popup": "rgb(25, 22, 34)",
+      "popup_text": "rgb(152, 139, 199)",
+      "button_background_active": "rgb(103, 228, 128)",
+      "frame_inactive": "rgb(120, 209, 225)",
+      "icons_attention": "rgb(120, 209, 225)",
+      "ntp_background": "rgb(25, 22, 34)",
+      "ntp_text": "rgb(152, 139, 199)",
+      "popup_border": "rgb(25, 22, 34)",
+      "popup_highlight_text": "rgb(152, 139, 199)",
+      "popup_highlight": "rgb(103, 228, 128)",
+      "sidebar_highlight_text": "rgb(103, 228, 128)",
+      "sidebar_text": "rgb(152, 139, 199)",
+      "sidebar": "rgb(25, 22, 34)",
+      "tab_background_separator": "rgb(152, 139, 199)",
+      "toolbar_field_border_focus": "rgb(103, 228, 128)",
+      "toolbar_field_focus": "rgb(25, 22, 34)",
+      "toolbar_field_highlight_text": "rgb(152, 139, 199)",
+      "toolbar_field_separator": "rgb(152, 139, 199)",
+      "toolbar_field_text_focus": "rgb(152, 139, 199)",
+      "tab_loading": "rgb(103, 228, 128)"
+    }
+  }
+}
